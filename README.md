@@ -89,6 +89,21 @@ I am passionate about **solving challenging problems**, writing **clean and effi
 
 ---
 
+
+## 💻 Technical Skills  
+
+- 🟦 **Java** ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)  
+- 🟨 **JavaScript** ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
+- 🟧 **HTML5** ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
+- 🟦 **CSS3** ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
+- 🟦 **MySQL** ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)  
+- 🟩 **Node.js** ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)  
+- ⚪ **Socket.io** ![Socket.io](https://cdn.worldvectorlogo.com/logos/socket-io.svg)  
+- ⚫ **JSON** ![JSON](https://www.vectorlogo.zone/logos/json/json-icon.svg)  
+- 🔵 **REST API** ![REST API](https://img.icons8.com/external-flat-juicy-fish/60/000000/external-rest-api-coding-and-development-flat-flat-juicy-fish.png)  
+
+---
+
 ## 🧰 TOOLS
 <div>
     <img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
