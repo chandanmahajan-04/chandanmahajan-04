@@ -2,7 +2,7 @@
 
 I am currently pursuing **B.Tech in Information Technology** with a strong foundation in **Core Java, JDBC, and MySQL**, complemented by front-end skills in **HTML, CSS, and JavaScript**.  
 
-I am passionate about **solving challenging problems**, writing **clean and efficient code**, and building projects that deliver **real-world value**. With a continuous learning mindset, I strive to grow as a **developer and problem solver**, while expanding my expertise in modern technologies.  n
+I am passionate about **solving challenging problems**, writing **clean and efficient code**, and building projects that deliver **real-world value**. With a continuous learning mindset, I strive to grow as a **developer and problem solver**, while expanding my expertise in modern technologies.
 
 ---
 
