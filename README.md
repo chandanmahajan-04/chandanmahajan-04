@@ -3,7 +3,6 @@
 Pursuing **B.Tech in Information Technology**  
 Passionate about building scalable web applications, solving real-world problems, and continuously learning new technologies.  
 
---
 
 ## Skills
 <div>
@@ -37,7 +36,6 @@ A real-time messaging system that breaks communication barriers by translating m
 A web application that provides real-time weather forecasts. Users can select any location and instantly view temperature, humidity, and other weather details.  
 🔗 [View Project](https://github.com/chandanmahajan-04)  
 
----
 
 ## 📞 Contact  
 📧 Email: **chandanmahajan2003@gmail.com**  
