@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Chandan Mahajan    
+#  HELLO I AM CHANDAN MAHAJAN  
 
 I am currently pursuing **B.Tech in Information Technology** with a strong foundation in **Core Java, JDBC, and MySQL**, complemented by front-end skills in **HTML, CSS, and JavaScript**.  
 
