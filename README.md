@@ -49,7 +49,7 @@ I am passionate about **solving challenging problems**, writing **clean and effi
 
 ## 🧰 TOOLS  
 
-<div align="center">
+<div>
 
 <table>
   <tr>
