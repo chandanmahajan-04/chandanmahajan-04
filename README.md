@@ -1,72 +1,60 @@
-# Hello, I'm Chandan Mahajan 👋
+# Hello, I'm Chandan Mahajan 👋  
 <a href="https://www.linkedin.com/in/chandan-mahajan-751790254/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/chandanmahajan-04"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:chandanmahajan2003@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ---
 
-🎓 **BTech IT Student** | 💻 **Aspiring Software Engineer** | 🔐 **Cybersecurity Enthusiast**
-
-I am an innovative and detail-oriented developer with hands-on experience in building full-stack applications, solving real-world problems, and leading teams in tech-driven projects. Passionate about developing scalable solutions using **Java, Node.js, and modern web technologies**, while also exploring **cybersecurity operations and automation**.
+🎓 I am currently pursuing my **B.Tech in Information Technology**.  
+💻 Passionate about building **scalable web applications**, learning new technologies, and solving real-world problems.  
 
 ---
 
 ## 🚀 Objective
-My journey in Information Technology has nurtured my passion for continuous learning and problem-solving. I am eager to contribute to impactful projects, enhance my skills, and grow into a strong professional developer.
+My journey in IT has nurtured my passion for **web development and software engineering**. I aim to contribute to impactful projects, enhance my problem-solving skills, and grow as a professional developer.
 
 ---
 
 ## 🛠️ Skills
 
-| Skill                                         | Associated Project |
-|-----------------------------------------------|--------------------|
-| SIEM Implementation and Log Analysis          | [Detection Lab](https://github.com/chandanmahajan-04) |
-| Network Traffic Monitoring and Attack Detection | [Detection Lab](https://github.com/chandanmahajan-04) |
-| Security Automation with Shuffle SOAR         | SOC Automation Lab |
-| Incident Response Planning and Execution      | SOC Automation Lab |
-| Case Management with TheHive                  | SOC Automation Lab |
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab |
-
----
-
-## 🔧 Tools
-
-### 🌐 Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### 💻 Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### 📊 SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
----
-
-## 📜 Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AJAX-005571?&style=for-the-badge&logo=JSON&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JSON-000000?&style=for-the-badge&logo=json&logoColor=white" />
+    <img src="https://img.shields.io/badge/-REST%20API-02569B?&style=for-the-badge&logo=api&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JDBC-323330?&style=for-the-badge&logo=oracle&logoColor=white" />
 </div>
 
 ---
 
 ## 📂 Projects
-- [Detection Lab](https://github.com/chandanmahajan-04)  
-- SOC Automation Project  
+
+### 🔹 Library Management System (Core Java + OOP + JDBC)
+A console-based system to manage books, students, and issue/return operations.  
+- Implemented using **Core Java, OOP principles, and JDBC** for database connectivity.  
+- Features include adding books, issuing books, returning books, and student record management.  
+🔗 [View Project](https://github.com/chandanmahajan-04)
+
+---
+
+### 🔹 Detection Lab (Networking Project)
+Designed a virtual detection environment for **network traffic monitoring and log analysis**.  
+- Set up a lab to capture and analyze network packets.  
+- Implemented traffic monitoring and intrusion detection use cases.  
+🔗 [View Project](https://github.com/chandanmahajan-04)
+
+---
+
+### 🔹 SOC Automation Project
+Worked on automating routine security and IT tasks.  
+- Developed workflows to **handle alerts, incident response, and reporting**.  
+- Automated processes reduced manual effort and improved efficiency.  
+🔗 [View Project](https://github.com/chandanmahajan-04)
 
 ---
 
@@ -77,4 +65,5 @@ My journey in Information Technology has nurtured my passion for continuous lear
 📱 **Phone:** +91 9022161828  
 
 ---
-✨ *Let’s connect and build something amazing together!* 🚀
+
+✨ *Let’s connect and create impactful solutions together!* 🚀
