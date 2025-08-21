@@ -38,7 +38,5 @@ A web application that provides real-time weather forecasts. Users can select an
 
 
 ## 📞 Contact  
-📧 Email: **chandanmahajan2003@gmail.com**  
-🔗 LinkedIn: [chandan-mahajan-751790254](https://www.linkedin.com/in/chandan-mahajan-751790254/)  
-💻 GitHub: [chandanmahajan-04](https://github.com/chandanmahajan-04)  
-📱 Phone: +91 9022161828  
+<a href="https://www.linkedin.com/in/chandan-mahajan-751790254/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:chandanmahajan2003@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
