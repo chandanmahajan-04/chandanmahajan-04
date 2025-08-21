@@ -1,73 +1,99 @@
-# Hello, I'm Chandan Mahajan
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+#  HELLO I AM CHANDAN MAHAJAN  
 
-Innovative and detail-oriented BTech IT student with hands-on experience in developing full-stack applications, solving real-world problems, and leading teams in tech-driven projects. Passionate about building scalable web solutions using Java, Node.js, and modern web technologies. Seeking a challenging software engineering role to contribute to impactful projects and grow as a professional developer.
+I am currently pursuing **B.Tech in Information Technology** with a strong foundation in **Core Java, JDBC, and MySQL**, complemented by front-end skills in **HTML, CSS, and JavaScript**.  
 
-## Objective
+I am passionate about **solving challenging problems**, writing **clean and efficient code**, and building projects that deliver **real-world value**. With a continuous learning mindset, I strive to grow as a **developer and problem solver**, while expanding my expertise in modern technologies.  
 
-My journey in Information Technology has led me to develop a passion for learning new things, and I am now eager to transition into this field.
+---
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## 💻 TECHNICAL SKILLS  
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+<div align="center">
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" /><br>Java
+    </td>
+    <td align="center" width="100">JDBC</td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" /><br>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /><br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" /><br>HTML5
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" /><br>CSS3
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" /><br>Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="50" height="50" alt="Socket.io" /><br>Socket.io
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="50" height="50" alt="JSON" /><br>JSON
+    </td>
+    <td align="center" width="100">
+      REST API
+    </td>
+  </tr>
+</table>
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+---
+
+## 🧰 TOOLS  
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" /><br>VS Code
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma" /><br>Figma
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" /><br>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" /><br>GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" height="50" alt="Eclipse" /><br>Eclipse
+    </td>
+  </tr>
+</table>
+
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+---
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+## 📂 PROJECTS  
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+### 📚 Library Management System  
+**Tech Stack:** Core Java, JDBC, MySQL  
+A console-based system to manage books and student records. Features include adding books, issuing/returning books, and managing student details.  
+🔗 [View Project](https://github.com/chandanmahajan-04)  
 
+### 💬 Real-Time Multilingual Messaging  
+**Tech Stack:** HTML, CSS, JavaScript, Socket.io, Node.js, REST API  
+A real-time messaging platform that automatically translates messages into different languages, enabling seamless communication — especially useful for **speech and hearing-impaired individuals**.  
+🔗 [View Project](https://github.com/chandanmahajan-04)  
 
+### 🌦️ Weather Application  
+**Tech Stack:** HTML, CSS, JavaScript, REST API  
+A web-based application that provides **real-time weather updates**. Users can search any location and instantly view temperature, humidity, and forecasts.  
+🔗 [View Project](https://github.com/chandanmahajan-04)  
 
+---
 
-
-
-
-make this as per my profile this are my details that you have to update 
-Email: chandanmahajan2003@gmail.com
-LinkedIn: chandan-mahajan-751790254
-GitHub: chandanmahajan-04
-Ph: +9022161828
-
-
-
-i want to add this in my github readme profile
+## 📞 CONTACT  
+<a href="https://www.linkedin.com/in/chandan-mahajan-751790254/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:chandanmahajan2003@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
