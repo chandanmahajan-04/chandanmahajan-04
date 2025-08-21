@@ -37,7 +37,7 @@ I am passionate about **solving challenging problems**, writing **clean and effi
       <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="50" height="50" alt="JSON" /><br>JSON
     </td>
     <td align="center" width="100">
-      <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logoColor=white" width="90" height="28" alt="REST API"/><br>REST API
+      REST API
     </td>
   </tr>
 </table>
