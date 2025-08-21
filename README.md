@@ -15,6 +15,12 @@ I am passionate about **solving challenging problems**, writing **clean and effi
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" /><br>Java
     </td>
+        <td align="center" width="100">
+      <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logoColor=white" width="90" height="28" alt="JDBC"/><br>JDBC
+    </td>
+        <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" /><br>MySQL
+    </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /><br>JavaScript
     </td>
@@ -23,9 +29,6 @@ I am passionate about **solving challenging problems**, writing **clean and effi
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" /><br>CSS3
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" /><br>MySQL
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" /><br>Node.js
