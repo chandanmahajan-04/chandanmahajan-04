@@ -1,69 +1,52 @@
-# Hello, I'm Chandan Mahajan 👋  
-<a href="https://www.linkedin.com/in/chandan-mahajan-751790254/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/chandanmahajan-04"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:chandanmahajan2003@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+# 👋 Hello, I'm Chandan Mahajan  
+
+🎓 Pursuing **B.Tech in Information Technology**  
+💻 Passionate about building scalable web applications, solving real-world problems, and continuously learning new technologies.  
 
 ---
 
-🎓 I am currently pursuing my **B.Tech in Information Technology**.  
-💻 Passionate about building **scalable web applications**, learning new technologies, and solving real-world problems.  
+## 🚀 Skills
+**Languages & Frameworks:** Java, JDBC, MySQL, HTML, CSS, JavaScript, Node.js, AJAX, JSON, REST API
 
 ---
 
-## 🚀 Objective
-My journey in IT has nurtured my passion for **web development and software engineering**. I aim to contribute to impactful projects, enhance my problem-solving skills, and grow as a professional developer.
-
----
-
-## 🛠️ Skills
-
+## 🛠️ Tools
 <div>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AJAX-005571?&style=for-the-badge&logo=JSON&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JSON-000000?&style=for-the-badge&logo=json&logoColor=white" />
-    <img src="https://img.shields.io/badge/-REST%20API-02569B?&style=for-the-badge&logo=api&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JDBC-323330?&style=for-the-badge&logo=oracle&logoColor=white" />
-</div>
+    <img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Figma-F24E1E?&style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Eclipse-2C2255?&style=for-the-badge&logo=eclipse&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=tableau&logoColor=white" />
+</div>  
 
 ---
 
-## 📂 Projects
+## 📂 Projects  
 
-### 🔹 Library Management System (Core Java + OOP + JDBC)
-A console-based system to manage books, students, and issue/return operations.  
-- Implemented using **Core Java, OOP principles, and JDBC** for database connectivity.  
-- Features include adding books, issuing books, returning books, and student record management.  
-🔗 [View Project](https://github.com/chandanmahajan-04)
-
----
-
-### 🔹 Detection Lab (Networking Project)
-Designed a virtual detection environment for **network traffic monitoring and log analysis**.  
-- Set up a lab to capture and analyze network packets.  
-- Implemented traffic monitoring and intrusion detection use cases.  
-🔗 [View Project](https://github.com/chandanmahajan-04)
+### 🔹 Real-Time Multilingual Messaging for Inclusive Communication  
+**Tech Stack:** HTML, CSS, JavaScript, Socket.io, Node.js, REST API  
+A real-time messaging system that breaks communication barriers by translating messages between different languages. Designed to enable seamless interaction, especially between speech and hearing-impaired individuals.  
+🔗 [View Project](https://github.com/chandanmahajan-04)  
 
 ---
 
-### 🔹 SOC Automation Project
-Worked on automating routine security and IT tasks.  
-- Developed workflows to **handle alerts, incident response, and reporting**.  
-- Automated processes reduced manual effort and improved efficiency.  
-🔗 [View Project](https://github.com/chandanmahajan-04)
+### 🔹 Weather Application  
+**Tech Stack:** HTML, CSS, JavaScript, REST API  
+A web application that provides real-time weather forecasts. Users can select any location and instantly view temperature, humidity, and other weather details.  
+🔗 [View Project](https://github.com/chandanmahajan-04)  
 
 ---
 
-## 📞 Contact
-📧 **Email:** chandanmahajan2003@gmail.com  
-🔗 **LinkedIn:** [chandan-mahajan-751790254](https://www.linkedin.com/in/chandan-mahajan-751790254/)  
-💻 **GitHub:** [chandanmahajan-04](https://github.com/chandanmahajan-04)  
-📱 **Phone:** +91 9022161828  
+### 🔹 Library Management System  
+**Tech Stack:** Core Java, JDBC, MySQL  
+A console-based system for managing books and student records. Includes features like adding books, issuing/returning books, and student management.  
+🔗 [View Project](https://github.com/chandanmahajan-04)  
 
 ---
 
-✨ *Let’s connect and create impactful solutions together!* 🚀
+## 📞 Contact  
+📧 Email: **chandanmahajan2003@gmail.com**  
+🔗 LinkedIn: [chandan-mahajan-751790254](https://www.linkedin.com/in/chandan-mahajan-751790254/)  
+💻 GitHub: [chandanmahajan-04](https://github.com/chandanmahajan-04)  
+📱 Phone: +91 9022161828  
