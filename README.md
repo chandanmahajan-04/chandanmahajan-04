@@ -6,7 +6,7 @@ I am passionate about **solving challenging problems**, writing **clean and effi
 
 ---
 
-## 🛠️ SKILLS
+## 💻 TECHNICAL SKILLS  
 <div>
     <img src="https://img.shields.io/badge/-Core%20Java-007396?&style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/-JDBC-323330?&style=for-the-badge&logo=oracle&logoColor=white" />
@@ -17,7 +17,33 @@ I am passionate about **solving challenging problems**, writing **clean and effi
     <img src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/-JSON-000000?&style=for-the-badge&logo=json&logoColor=white" />
     <img src="https://img.shields.io/badge/-REST%20API-02569B?&style=for-the-badge&logo=api&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Socket.io-010101?&style=for-the-badge&logo=socket.io&logoColor=white" />
 </div>  
+
+---
+
+## 💻 TECHNICAL SKILLS  
+
+<div align="center">
+
+<!-- Programming Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
+
+<!-- Databases -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+
+<!-- Backend & API -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
+<img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="50" height="50" alt="Socket.io" />
+<img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="50" height="50" alt="JSON" />
+<img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-rest-api-coding-and-development-flat-flat-juicy-fish.png" width="50" height="50" alt="REST API" />
+
+</div>
+
+---
 
 ---
 
@@ -53,6 +79,6 @@ A web-based application that provides **real-time weather updates**. Users can s
 
 ---
 
-## 📫 CONTACT 
+## 📞 CONTACT 
 <a href="https://www.linkedin.com/in/chandan-mahajan-751790254/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:chandanmahajan2003@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
