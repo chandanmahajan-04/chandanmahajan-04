@@ -104,6 +104,47 @@ I am passionate about **solving challenging problems**, writing **clean and effi
 
 ---
 
+
+## 💻 TECHNICAL SKILLS  
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" /><br>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /><br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" /><br>HTML5
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" /><br>CSS3
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" /><br>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" /><br>Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="50" height="50" alt="Socket.io" /><br>Socket.io
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="50" height="50" alt="JSON" /><br>JSON
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-rest-api-coding-and-development-flat-flat-juicy-fish.png" width="50" height="50" alt="REST API" /><br>REST API
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🧰 TOOLS
 <div>
     <img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />
